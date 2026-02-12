@@ -7,3 +7,7 @@ function getName(name) {
 }
 
 const age = "56";
+
+function sale() {
+  return `sale`;
+}
